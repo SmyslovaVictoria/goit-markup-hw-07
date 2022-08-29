@@ -18,8 +18,8 @@
   line-height: 1.19;
   &:hover,
   &:focus {
-  color: var(--white-color);
-}
+    color: var(--white-color);
+  }
 }
 
 .footer__logo .accent {
@@ -52,8 +52,8 @@
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   &:hover,
   &:focus {
-  color: var(--accent-color);
-}
+    color: var(--accent-color);
+  }
 }
 
 .navigation__item:not(:last-child) {
@@ -87,8 +87,8 @@
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
   &:hover,
   &:focus {
-  background-color: #2196f3;
-}
+    background-color: #2196f3;
+  }
 }
 
 .soc__conteinet {
